@@ -1,2 +1,2 @@
 # Hackerrank-contests-python37
-# All contests solution 
+# All contests solutions 
